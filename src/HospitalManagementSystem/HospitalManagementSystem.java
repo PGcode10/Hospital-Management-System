@@ -11,7 +11,7 @@ public class HospitalManagementSystem {
 
     private static final String url = "jdbc:mysql://127.0.0.1:3306/hospital";
     private static final String username = "root";
-    private static final String password = "@Abcd_1234";
+    private static final String password = "Admin123";
 
     public static void main(String[] args) {
 
